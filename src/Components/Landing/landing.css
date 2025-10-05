@@ -1,0 +1,210 @@
+.div1{
+  width: 100%;
+   
+  height: 512px;
+background-image: url("../../Images/allmoviesnew.png");
+background-size: cover;
+}
+.div2{
+    width: 100%;
+    height:500px;
+    /* background-color: white; */
+    display: flex;
+  
+  }
+  .sub1div2{
+    width: 40%;
+    height: 100%;
+    margin-left: 60px;
+    
+    text-align: left;
+  }
+  .sub2div2{
+    width: 45%;
+    height: 100%;
+    
+    margin-left: 70px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(3,160px);
+    grid-gap: 5px;
+    margin-top: 10px;
+  }
+  .landimg{
+    width: 100%;
+    height: 100%    ;
+   }
+   .sub2div2>div:hover{
+     box-shadow: rgba(226, 204, 6, 0.25) 0px 14px 28px, rgba(218, 241, 9, 0.22) 0px 10px 10px;
+   }
+   
+   
+   
+   
+   
+   .headsub1{
+     font-family:"Amazon Ember";
+     font-size: 45px;
+      line-height:50px;
+      font-weight: 100;
+      font-style: normal;
+   }
+   .text{
+     font-family:sans-serif;
+     font-size: 29px;
+      line-height:29px;
+      font-weight: 400;
+      font-style: normal;
+      color: black;
+   }
+   .div3{
+       width: 100%;
+       margin-top: 10px;
+       height: 512px;
+     background-image: url("../../Images/tvimage.png");
+     background-size: cover;
+   }
+   .div4{
+    width: 100%;
+    background-size: cover;
+    height: 512px;
+  background-image: url("../../Images/remote..png");
+}
+   .button3{
+    margin-top: 310px;
+    margin-left: -1080px;
+    width: 290px;
+    height: 60px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 22px;
+    background-color: #0f79af;
+    border: transparent;
+    color: #eafcfc;
+    font-family: sans-serif;
+  }
+  .div5{
+    width: 100%;
+    background-size: cover;
+    height: 512px;
+  background-image: url("../../Images/children.png");
+}
+.button5{
+    margin-top: 305px;
+    margin-left: -1120px;
+    width: 320px;
+    height: 60px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 22px;
+    background-color: #0f79af;
+    border: transparent;
+    color: #eafcfc;
+    font-family: sans-serif;
+}
+.button4{
+    margin-top: 320px;
+    margin-left: 432px;
+    width: 310px;
+    height: 67px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 22px;
+    background-color: #0f79af;
+    border: transparent;
+    color: #eafcfc;
+    font-family: sans-serif;
+}
+.button1{
+  z-index: 999;
+  margin-top: 260px;
+  margin-left: -1073px;
+  width: 290px;
+  height: 54px;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 22px;
+  background-color: #0f79af;
+  border: transparent;
+  color: #eafcfc;
+  font-family: sans-serif;
+  cursor: pointer;
+}
+.button3:hover{
+    cursor: pointer;
+}
+.button4:hover{
+    cursor: pointer;
+}
+.button5:hover{
+    cursor: pointer;
+}
+.drop{
+    position: fixed;
+    
+    background-color:rgba(0, 0, 0, 0.432) ;
+    z-index: 2;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    width: 100%;
+    
+    justify-content: end;
+ 
+ }
+ .childdrop{
+   height: 310px;
+   width: 500px;
+   background-color: #252e39;
+   margin-top: 90px;
+   margin-right: 50px;
+  border-radius: 10px;
+  display: flex;
+
+  
+ }
+ .childdrop>div{
+  width: 50%;
+  height: 100%;
+ 
+ }
+ .kids{
+   border-left: 1px solid white;
+ }
+ .kids1{
+   width: 99%;
+   height: 60px;
+  
+   display: flex;
+ }
+ .kid2{
+  width: 100%;
+  height: 40px;
+
+padding-bottom: 20px;
+ }
+ .kid2:hover{
+   background-color:#2e94c8 ;
+ }
+ .kidsimg{
+   width: 30%;
+   height: 100%;
+ 
+ }
+ 
+ .kidlogo{
+   width: 40px;
+   margin-top: 12px;
+ }
+ .droptext{
+   color: white;
+   font-size: 18px;
+  margin-top: 15px;
+ }
+ .droptext1{
+    color: white;
+    font-size: 18px;
+   margin-top: 15px;
+   margin-left: 25px;
+  }
+  

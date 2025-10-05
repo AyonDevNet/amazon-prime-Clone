@@ -1,0 +1,120 @@
+.MovieDetails_Div_Component{
+    background-color: black;
+    color: white;
+}
+.Main_div{
+    width:98%;
+    /* background-size: cover;
+        background-repeat: no-repeat; */
+    margin: auto;
+    height:fit-content;
+    /* position: relative; */
+    /* z-index: 100; */
+    /* background-color: rgba(0,0,0,0.5); */
+/* opacity:0.8; */
+    display:flex;
+    
+}
+.data_div{
+    box-sizing: border-box;
+    width:70%;
+    position:absolute;
+    /* height:100%; */
+    /* border: 1px solid rgb(201, 139, 139); */
+    text-align: left;
+    padding-left: 5%;
+    overflow-x: visible;
+}
+#amazon_original{
+    font-weight: 100;
+}
+#title{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.miniDes_div{
+    /* border: 1px solid red; */
+    display: flex;
+    
+    gap:2%;
+    text-align: center;
+    align-items: center;
+}
+.title_below_btn{
+    background-color: black;
+    border:2px solid gray;
+    border-radius: 10%;
+    color:white;
+    font-size:small;
+ }
+ .title_below_img{
+     width:60%
+ }
+
+.playOpt_div{
+    display: flex;
+    text-align: center;
+}
+.playOpt_div>p{
+    /* border:1px solid red; */
+    margin-right:-30px;
+}
+#play_btn{
+    background-color: rgb(51, 156, 204);
+    border:none;
+    height:fit-content;
+    border-radius: 3%;
+    padding:2%;
+}
+.extraDetail_div{
+    text-align: left;
+    display: flex;
+    /* justify-content: space-between; */
+    gap:10%;
+}
+.colorChan{
+    color:rgb(51, 156, 204);
+    font-weight: 500;
+}
+
+.details_below_div{
+   padding-top: 10%;
+   display:flex;
+   justify-content: space-around;
+}
+.side_div{
+    display:flex;
+}
+.side_div_img{
+    width:20%;
+    vertical-align: text-bottom;
+    padding-right:2%;
+}
+
+.details_navbar{
+    padding: 3%;
+    display:flex;
+    gap: 5%;
+    margin-left: 40%;
+}
+.det_nb_btn{
+    background-color: none;
+}
+
+.slider_div123{
+    box-sizing: border-box;
+    margin:auto;
+    margin-top: 2%;
+    border:1px solid gray;
+    width:98%;
+    padding-left: 5%;
+}
+.minivideoPlayer-button > div:nth-child(1):hover{
+    background-color: #0f84bf;
+    cursor: pointer;
+} 
+.minivideoPlayer-button > div:hover{
+    background-color: #51667c;
+    cursor: pointer;
+} 

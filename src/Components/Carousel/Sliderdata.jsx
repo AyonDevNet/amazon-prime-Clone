@@ -1,0 +1,23 @@
+export const SliderData = [
+    {
+        image:'https://m.media-amazon.com/images/S/sonata-images-prod/PV_IN_Pada_Launch/4b325e8b-5279-4a79-8fcf-9b5173e678ae._UR3000,600_SX1500_FMwebp_.jpeg'
+    },
+    {
+        image:'https://m.media-amazon.com/images/S/sonata-images-prod/PV_IN_AchchamMadamNaanamTamil_Launch/4343d2de-ec2d-4565-8798-accc2229b8b7._UR3000,600_SX1500_FMwebp_.jpeg'
+    },
+    {
+        image:'https://m.media-amazon.com/images/S/sonata-images-prod/PV_IN_CROW_LP_Multititle_DiscPrice499/e951e6c6-f178-491f-a43e-2b23e011b59f._UR3000,600_SX1500_FMwebp_.jpeg'
+    },
+    {
+        image:'https://m.media-amazon.com/images/S/sonata-images-prod/PV_IN_DeepWater_Launch/65b82c6c-8140-4505-99ad-38819daf2d92._UR3000,600_SX1500_FMwebp_.jpeg'
+    },
+    {
+        image:'https://m.media-amazon.com/images/S/sonata-images-prod/PV_IN_CROW_Hoichoi_Sampling_Multititle/8493783d-71a2-4a5e-87d8-2b5fcd6f3d1d._UR3000,600_SX1500_FMwebp_.jpeg'
+    },
+    {
+        image:'https://m.media-amazon.com/images/G/01/digital/video/sonata/Hero_IN_Batman/en_us-hero_in_batman-3000-600._UR3000,600_SX1500_FMwebp_.jpg'
+    },
+    {
+        image:'https://m.media-amazon.com/images/S/sonata-images-prod/PV_IN_CROW_UN_JohnWick3_LP_PC/5f4ec9b1-be13-467a-9de0-5847d1b2990a._UR3000,600_SX1500_FMwebp_.jpeg'
+    },
+]

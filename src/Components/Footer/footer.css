@@ -1,0 +1,27 @@
+.footer>h3 a{
+  font-size: 1.3rem;
+  font-weight: 400;
+  /* margin: 1rem;   */
+  text-decoration:none;
+  color: #90DFFE;  
+}
+.footer>h3 a:hover{
+  color: #60b3d4;  
+  transition: 1s;  
+}
+  .footer>h3{
+    margin-top: 0;
+    align-items: center;
+color: #7A8D9C;
+  }
+  .footer{
+    background-color: #0f171e;
+    display: flex;
+    flex-direction: column;
+    
+    color: white;
+    height: 40px;
+    text-align: center;
+    align-items: center;
+    /* border: 2px solid red; */
+  }

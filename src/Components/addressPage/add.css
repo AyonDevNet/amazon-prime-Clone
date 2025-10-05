@@ -1,0 +1,37 @@
+.addhead{
+    margin-left:380px;
+    font-size: 21px;
+    line-height: 36px;
+
+}
+.inputdiv2{
+    height: 545px;
+    width: 922px;
+    padding: 10px 14px 10px 14px;
+    border: 1px solid rgb(178, 166, 166);
+    margin: auto;
+    border-radius:10px ;
+}
+label{
+font-size: 17px;
+line-height: 20px;
+
+}
+input{
+    width: 400px;
+    height: 31px;
+    border:1px solid #888c8c;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    padding: 3px 7px 3px 7px;
+}
+.submit{
+    width: 130px;
+    height: 25px;
+    margin-left: 750px;
+    background-color:#0f79af ;
+    font-size: 15px;
+
+    color: white;
+
+}

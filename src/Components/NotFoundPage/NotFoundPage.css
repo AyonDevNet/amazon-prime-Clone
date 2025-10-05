@@ -1,0 +1,17 @@
+.NotFoundPage_div_Page{
+    color: white;
+    width: 100%;
+    background-color: black;
+    height: 100%;
+    margin-top: 0;
+    height: 600px;
+    padding-top: 200px;
+}
+
+.NotFoundPage_subDiv{
+   /* border: 1px solid blue; */
+   /* display: flex;
+   flex-direction: column; */
+   justify-content: center;
+   
+}

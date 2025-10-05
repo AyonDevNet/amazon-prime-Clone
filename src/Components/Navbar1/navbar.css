@@ -1,0 +1,185 @@
+.navbar{
+    /* border: 1px solid red; */
+    width: 100%;
+    height: 70px;
+    padding-top:30px ;
+    background-color: #1a242f;
+
+    display: flex;
+  }
+  
+  .logo{
+    width: 10%;
+    height: 40px;
+    
+    margin-left: 10px;
+  }
+  .Home{
+      width: 60px;
+     height: 24px;
+     margin-left: 20px;
+     font-size: 20px;
+     line-height: 24px;
+     text-align: left;
+     color:white;
+     font-weight: 500;
+     text-decoration: none;
+  }
+  .Home:hover{
+      border-bottom: 2px solid white;
+      
+  }
+  .navbar > .TVshow{
+    width: 90px;
+    height: 24px;
+    margin-left: 20px;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: left;
+    color: white;
+    font-weight: 500;
+   
+  }
+  .TVshow:hover{
+    border-bottom: 2px solid white;
+  }
+  .Movies{
+    width: 70px;
+    height: 24px;
+    margin-left: 20px;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: left;
+    color:white;
+    font-weight: 500;
+  }
+  .Movies:hover{
+    border-bottom: 2px solid white;
+  }
+  .Channels{
+    width: 90px;
+    height: 24px;
+    margin-left: 20px;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: left;
+    color: white;
+    font-weight: 500;
+  }
+  .Channels:hover{
+    border-bottom: 2px solid white;
+  }
+  .Categories{
+    width: 120px;
+    height: 24px;
+    margin-left: 20px;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: left;
+    color: white;
+    font-weight: 500;
+  
+}
+.Categories:hover{
+    border-bottom: 2px solid white;
+}
+.searchbar{
+  
+  width: 250px;
+  height: 40px;
+  margin-left: 300px;
+  display: flex;
+  border: 1px solid white;
+  align-items: center;
+}
+
+.searchbar>input{
+ 
+  width: 100%;
+  background-color: #1a242f;
+  margin-top: 13px;
+  outline: none;
+  color: white;
+  font-size: 20px;
+  border: transparent;
+  
+}
+.user{
+  width: 150px;
+  height: 40px;
+ display: flex;
+  margin-left:50px ;
+}
+.userlogo{
+  width: 27%;
+  height: 100%;
+
+  
+}
+.username{
+  color: white;
+  font-size: 20px;
+  padding: 0px 0px 0px 20px;
+}
+.drop{
+   position: fixed;
+   
+   background-color:rgba(0, 0, 0, 0.432) ;
+   z-index: 2;
+   left: 0;
+   bottom: 0;
+   top: 0;
+   width: 100%;
+   
+   justify-content: end;
+
+}
+.childdrop{
+  height: 310px;
+  width: 500px;
+  background-color: #252e39;
+  margin-top: 90px;
+  margin-right: 50px;
+ border-radius: 10px;
+ display: flex;
+ 
+}
+.childdrop>div{
+ width: 50%;
+ height: 100%;
+
+}
+.kids{
+  border-left: 1px solid white;
+}
+.kids1{
+  width: 99%;
+  height: 60px;
+
+  display: flex;
+}
+.kidsimg{
+  /* border: 1px solid red; */
+  width: 15%;
+  height: 50%;
+  margin-left: 10px;
+}
+
+.kidlogo{
+  /* border: 1px solid red; */
+  width: 10px;
+  height: 5px;
+  margin-top: 12px;
+}
+.droptext{
+  color: white;
+  font-size: 18px;
+ margin-top: 15px;
+ margin-left: 10px;
+}
+.droptext1{
+  color: white;
+  font-size: 18px;
+ margin-top: 15px;
+ margin-left: 25px;
+}

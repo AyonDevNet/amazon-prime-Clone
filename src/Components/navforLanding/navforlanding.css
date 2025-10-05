@@ -1,0 +1,102 @@
+.landing-navbar{
+  /* border: 1px solid red; */
+    width: 100%;
+    height: 60px;
+    padding-top:30px ;
+    background-color: #08415b;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .landing-logo{
+    
+    width: 1%;
+    height: 50px;
+    }
+  .landing-lang{
+    width: 5%;
+    height: 70%;
+    
+    margin-left: 1000px;
+    display: flex;
+  }
+  .landing-user{
+      width: 9%;
+      height: 70%;
+     
+      margin-left: 30px;
+      display: flex;
+    
+  }
+  .langlogo{
+      width: 40%;
+      height: 100%;
+      
+  }
+  .langtext{
+    display: flex;
+      color: white;
+      font-size: 20px;
+      margin-top: 5px;
+  }
+  .drop2{
+    position: fixed;
+    
+    background-color:rgba(0, 0, 0, 0.432) ;
+    z-index: 2;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    width: 100%;
+    
+    justify-content: end;
+ 
+ }
+ .childdrop2{
+   height: 400px;
+   width: 600px;
+   background-color: #0b4965;
+   margin-top: 90px;
+   margin-right: 250px;
+  border-radius: 10px;
+  display: flex;
+}
+.childmain1{
+ width: 33%;
+ height: 100%;
+}
+.childmain2{
+    width: 33%;
+    height: 100%;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+   }
+   .childmain3{
+    width: 33%;
+    height: 100%;
+   }
+   .kids2{
+    width: 99%;
+    height: 60px;
+   text-align: left;
+    display: flex;
+  }
+  
+  .droptext2{
+    color: white;
+    font-size: 18px;
+   margin-top: 22px;
+  
+  }
+  .landing-userlogo{
+    width: 27%;
+    height: 100%;
+  
+    
+  }
+  .username{
+    color: white;
+    font-size: 20px;
+    padding: 0px 0px 0px 4px;
+  }
+  

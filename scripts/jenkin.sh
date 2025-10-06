@@ -51,4 +51,7 @@ else
     sudo apt-get install -y jenkins
 fi
 
+sudo systemctl enable jenkins
+sudo systemctl start jenkins
+
 echo "#### Installation process completed ####"

@@ -14,13 +14,13 @@ This repository contains both the frontend and backend source code, along with a
 Workflow
 This project automates the end-to-end DevOps pipeline — from code to deployment:
 
-Source Control → GitHub repository
-Build Stage → Jenkins triggers Docker builds
-Vulnerability Scan → Trivy scans Docker images
-Infrastructure Provisioning → Terraform creates AWS resources (EKS, VPC, EC2, S3, etc.)
-Deployment → EKS + kubectl deploys pods and services
-Monitoring → Prometheus collects metrics, Grafana visualizes dashboards
-Continuous Delivery → Automated redeployments on commit
+1. Source Control → GitHub repository
+2. Build Stage → Jenkins triggers Docker builds
+3. Vulnerability Scan → Trivy scans Docker images
+4. Infrastructure Provisioning → Terraform creates AWS resources (EKS, VPC, EC2, S3, etc.)
+5. Deployment → EKS + kubectl deploys pods and services
+6. Monitoring → Prometheus collects metrics, Grafana visualizes dashboards
+7. Continuous Delivery → Automated redeployments on commit
 
 <img width="575" height="281" alt="image" src="https://github.com/user-attachments/assets/471a85b5-3894-4501-89a0-c6353d864adf" />
 

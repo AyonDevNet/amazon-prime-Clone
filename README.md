@@ -4,11 +4,17 @@ A full-stack Amazon Prime Video Clone project integrated with complete DevOps au
 This repository contains both the frontend and backend source code, along with automation scripts for Docker, Kubernetes (EKS), Jenkins, Terraform, Prometheus, Grafana, and Trivy — all designed to simulate a real-world CI/CD pipeline and cloud deployment workflow.
 
 🧱 Full-stack development (React + Node.js + MongoDB)
+
 🐳 Docker-based containerization
+
 🔄 CI/CD pipeline (Jenkins / GitHub Actions)
+
 🔐 Image scanning (Trivy)
+
 📊 Monitoring (Grafana, Prometheus)
+
 ☁️ Cloud deployment (AWS EC2 / EKS)
+
 ⚙️ Infrastructure as Code (Terraform-readynning, and cloud deployment.
 
 Workflow
